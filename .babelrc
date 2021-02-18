@@ -5,6 +5,7 @@
 	],
 	"plugins": [
 		"react-hot-loader/babel",
+		"@babel/plugin-syntax-jsx",
 		[
 			"@babel/plugin-proposal-class-properties",
 			{
